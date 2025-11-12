@@ -22,6 +22,9 @@
   scroll-behavior: smooth;
   transition: background-color var(--transition), color var(--transition);
 }
+html{
+cursor: url(icons8-cursor-32.svg);   
+}
 
 body {
   font-family: 'Segoe UI', Roboto, sans-serif;
