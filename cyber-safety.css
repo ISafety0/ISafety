@@ -23,7 +23,7 @@
   transition: background-color var(--transition), color var(--transition);
 }
 html{
-cursor: url(icons8-cursor-32.svg);   
+cursor: url(icons8-cursor-32.svg), auto;   
 }
 
 body {
